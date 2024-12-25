@@ -12,6 +12,9 @@ release/
 *.exe
 *.app
 
+# 也可以递归保留 keep/ 子目录的 .exe 文件
+!CS106/Library/**/*.exe
+
 # Qt Creator 特定文件
 *.user
 *.pro.user
