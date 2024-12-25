@@ -1,0 +1,109 @@
+# 编译输出
+build/
+debug/
+release/
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.lib
+*.a
+*.exe
+*.app
+
+# Qt Creator 特定文件
+*.user
+*.pro.user
+*.qbs.user
+*.pro.user.*
+*.moc
+*.qrc
+*.qmlc
+*.qmltypes
+*.qmake.stash
+*.qmake.cache
+
+# Visual Studio 特定文件
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+ipch/
+*.pdb
+*.idb
+*.ilk
+*.aps
+*.ncb
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+
+# Visual Studio 编译中间文件
+*.obj
+*.pch
+*.res
+*.rsp
+*.tlb
+*.tli
+*.tmp
+
+# Visual Studio 构建输出
+*.log
+*.tlog
+*.lastbuildstate
+
+# 通用 IDE 配置文件
+.vscode/
+.idea/
+*.iml
+
+# 临时文件
+*.bak
+*.swp
+*.tmp
+*.log
+*.stackdump
+.DS_Store
+Thumbs.db
+
+# CMake 构建目录
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 覆盖工具生成的文件
+*.gcno
+*.gcda
+*.gcov
+
+# 包文件和安装文件
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.tgz
+*.deb
+*.rpm
+*.pkg
+*.dmg
+*.msi
+
+# 忽略输出目录
+bin/
+lib/
+dist/
+
+# Qt 生成的文件
+ui_*.h
+qrc_*.cpp
+moc_*.cpp
+
+# 特定系统文件
+Thumbs.db
+.DS_Store
+._*
+desktop.ini

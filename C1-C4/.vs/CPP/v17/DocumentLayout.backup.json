@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yin\\Desktop\\CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1035ECAD-87AB-49D1-88F4-A3A555FCA775}|E04.09\\E04.09.vcxproj|C:\\Users\\yin\\Desktop\\CPP\\E04.09\\E04.09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1035ECAD-87AB-49D1-88F4-A3A555FCA775}|E04.09\\E04.09.vcxproj|solutionrelative:E04.09\\E04.09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BC63ED-C603-4337-BA44-79F3E4C97F8B}|E04.08\\E04.08.vcxproj|C:\\Users\\yin\\Desktop\\CPP\\E04.08\\E04.08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78BC63ED-C603-4337-BA44-79F3E4C97F8B}|E04.08\\E04.08.vcxproj|solutionrelative:E04.08\\E04.08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E04.09.cpp",
+              "DocumentMoniker": "C:\\Users\\yin\\Desktop\\CPP\\E04.09\\E04.09.cpp",
+              "RelativeDocumentMoniker": "E04.09\\E04.09.cpp",
+              "ToolTip": "C:\\Users\\yin\\Desktop\\CPP\\E04.09\\E04.09.cpp",
+              "RelativeToolTip": "E04.09\\E04.09.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T11:25:26.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E04.08.cpp",
+              "DocumentMoniker": "C:\\Users\\yin\\Desktop\\CPP\\E04.08\\E04.08.cpp",
+              "RelativeDocumentMoniker": "E04.08\\E04.08.cpp",
+              "ToolTip": "C:\\Users\\yin\\Desktop\\CPP\\E04.08\\E04.08.cpp",
+              "RelativeToolTip": "E04.08\\E04.08.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T07:35:21.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
